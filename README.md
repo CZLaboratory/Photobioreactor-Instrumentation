@@ -2,7 +2,7 @@
 ### Open-Source Raspberry Pi-Based Instrumentation Platform for Photobioreactors
 
 <p align="center">
-<img src="bioreactor.png" width="300">
+<img src="Figures/bioreactor.png" width="300">
 </p>
 
 ALG-FLex is an open-source instrumentation platform designed for real-time monitoring and control of laboratory-scale photobioreactors using a Raspberry Pi 4. The system was developed to provide an affordable and flexible alternative to commercial bioreactor controllers while maintaining reliable acquisition of biological variables and automated control of illumination and auxiliary devices.
@@ -114,7 +114,7 @@ All modules share a common electrical ground (GND), while independent power buse
 Communication interfaces include UART, SPI, I²C and PWM.
 
 <p align="center">
-<img src="WiringDiagram.png" width="900">
+<img src="Figures/WiringDiagram.png" width="900">
 </p>
 
 ---
