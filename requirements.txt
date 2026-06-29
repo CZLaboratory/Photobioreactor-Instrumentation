@@ -1,0 +1,14 @@
+Adafruit-GPIO
+adafruit-circuitpython-mcp3xxx
+adafruit-blinka
+pyserial
+spidev
+smbus2
+RPi.GPIO
+numpy
+matplotlib
+Pillow
+python3-tk
+pandas
+scipy
+opencv-python
